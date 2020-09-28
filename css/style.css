@@ -93,7 +93,8 @@ a:hover, a:focus {
 .colhead{
   background-color: #7e0820;
   color: #FFFFFF;
-  align-self:center;
+  text-align:center;
+  vertical-align:center;
   text-transform:uppercase;
   min-width:125px;
   padding:10px;
